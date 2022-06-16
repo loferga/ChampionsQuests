@@ -1,0 +1,160 @@
+[Own]
+[Domination protéiforme]
+O   Aatrox
+X X Ahri
+O   Akali
+O   Akshan
+X X Alistar
+X X Amumu
+X X Anivia
+X X Annie
+O   Aphelios
+X X Ashe
+X X Aurelion sol
+X X Azir
+X X Bard
+O   Bel'Veth
+X X Blitzcrank
+X X Brand
+X X Braum
+X X Caitlyn
+O   Camille
+X X Cassiopeia
+X X Cho'gath
+X X Corki
+O   Darius
+O   Diana
+X O Draven
+X O Dr. Mundo
+X O Ekko
+X O Elise
+X O Evelynn
+X O Ezreal
+X O Fiddlesticks
+O   Fiora
+O   Fizz
+X O Galio
+X O Gangplank
+X O Garen
+O   Gnar
+X O Gragas
+X O Graves
+O   Gwen
+X O Hecarim
+X O Heimerdinger
+O   Illaoi
+O   Irelia
+X O Ivern
+X O Janna
+X O Jarvan IV
+X O Jax
+X O Jayce
+X O Jhin
+X O Jinx
+X O Kai'Sa
+X O Kalista
+X O Karma
+X O Karthus
+X O Katarina
+X O Kayle
+X O Kayn
+O   Kennen
+O   Kha'Zix
+X O Kindred
+O   Kled
+X O Kog'Maw
+O   LeBlanc
+X O Lee Sin
+X O Lillia
+O   Lissandra
+X O Lucian
+X O Lulu
+X O Lux
+X O Maître Yi
+X O Malphite
+X O Malzahar
+X O Maokai
+X O Miss Fortune
+X O Mordekaiser
+X O Morgana
+X O Nami
+X O Nasus
+X O Nautilus
+X O Neeko
+X O Nidalee
+X O Nocturne
+X O Nunu et Willump
+X O Olaf
+O   Orianna
+X O Ornn
+X O Pantheon
+X O Poppy
+X O Pyke
+O   Qiyana
+O   Quinn
+X O Rakan
+X O Rammus
+X X Rek'Sai
+O   Rell
+O   Renata Glasc
+O   Renekton
+X O Rengar
+O   Riven
+X O Rumble
+X O Ryze
+O   Samira
+X O Sejuani
+O   Senna
+X O Séraphine
+X O Sett
+O   Shaco
+X O Shen
+X O Shyvana
+X O Singed
+X O Sion
+X O Sivir
+X X Skarner
+X O Sona
+X O Soraka
+O   Swain
+O   Sylas
+X O Syndra
+O   Tahm Kench
+X O Taliyah
+O   Talon
+X O Taric
+X O Teemo
+X O Thresh
+X O Tristana
+O   Trundle
+O   Tryndamere
+X O Twisted Fate
+X O Twitch
+X O Udyr
+X O Urgot
+X O Varus
+X O Vayne
+X O Veigar
+X O Vel'Koz
+X O Vex
+X O Vi
+O   Viego
+X O Viktor
+O   Vladimir
+X O Volibear
+X O Warwick
+O   Wukong
+X X Xayah
+O   Xerath
+X O Xin Zhao
+O   Yasuo
+O   Yone
+X O Yorick
+X O Yuumi
+X O Zac
+X O Zed
+O   Zeri
+X O Ziggs
+X O Zilean
+X O Zoé
+X O Zyra
